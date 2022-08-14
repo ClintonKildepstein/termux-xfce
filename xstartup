@@ -1,0 +1,3 @@
+#!/bin/bash
+#startup file for vnc server
+startxfce4 &
